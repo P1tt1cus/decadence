@@ -59,7 +59,7 @@ decadence> cd C:\temp
 
 decadence> dir
  Volume in drive C is Blade SSD
- Volume Serial Number is E02A-5775
+ Volume Serial Number is ####-####
 
  Directory of C:\temp
 
