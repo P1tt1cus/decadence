@@ -119,7 +119,7 @@ exit - closes the connection
                     self.s.send(p.communicate()[0])
 
                 # return stderr
-                elif p.communicate()[1]:
+                if p.communicate()[1]:
                     self.s.send(p.communicate()[1])
 
 if __name__ == "__main__":
